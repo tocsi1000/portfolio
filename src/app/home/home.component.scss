@@ -1,0 +1,13 @@
+$color3: #5e7555;
+$color2: #e68302;
+
+p>img{
+    width:50%;
+    float:right
+}
+
+.box {
+    background-color: $color3;
+    border: 3px solid $color2;
+    padding: 5px;
+}
